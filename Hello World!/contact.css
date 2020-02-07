@@ -1,0 +1,18 @@
+
+
+
+#myvideo { background-repeat:no repeat;
+       background-position:full;
+	   background-attachment: fixed;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}

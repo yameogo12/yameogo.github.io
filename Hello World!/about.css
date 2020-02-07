@@ -1,0 +1,17 @@
+body {
+  background-image:url("lens.jpg");
+  margin: 20px;
+  background-attachment:50%;
+  
+  
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
